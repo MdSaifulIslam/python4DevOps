@@ -113,10 +113,11 @@ Key dependencies used in this learning project:
 - **Development Tools**: `ipykernel`, `jupyterlab`
 - **System Interaction**: `psutil`
 
+## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MdSaifulIslam/python4DevOps
 ```
 
 2. Create and activate a virtual environment:
